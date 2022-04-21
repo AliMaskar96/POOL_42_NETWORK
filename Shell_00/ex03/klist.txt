@@ -1,0 +1,5 @@
+Credentials cache: API:F885E1BC-E0F6-4B71-8BEC-FECF12298C78
+        Principal: aait-mas@1337.MA
+
+  Issued                Expires               Principal
+Aug  2 18:43:42 2021  Aug  9 18:43:31 2021  krbtgt/1337.MA@1337.MA
